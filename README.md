@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![](https://github.com/sigma-andex/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/sigma-andex/github-stats/blob/master/generated/languages.svg)
+
 <!--
 **sigma-andex/sigma-andex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
