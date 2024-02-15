@@ -4,7 +4,7 @@ I'm Jan, a deep learning and functional programming enthusiast. I code mostly in
 
 Right now I'm mostly interested in LLMs with a focus on making LLMs fast and accessible.
 
-I'm **available for hire**, reach out to me at https://betalyra.pt/#contact.
+I'm **available for hire**, reach out to me at https://betalyra.pt/contact.
 
 ## Current projects
 
