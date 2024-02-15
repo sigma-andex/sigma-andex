@@ -8,10 +8,11 @@ I'm **available for hire**, reach out to me at https://betalyra.pt/#contact.
 
 ## Current projects
 
-At the moment I'm working on two related projects (very, very early stage though):
+At the moment I'm working on the following projects:
 
-- [`@text-yoga/transformers-wasm`](https://github.com/text-yoga/transformers-wasm) - Wasm transformers for the web.
+- [`ratchet`](https://github.com/FL33TW00D/ratchet) - Contributor to [Christopher's](https://github.com/FL33TW00D) ratchet transformer library which is written in Rust/WASM and optimised for WebGPU.
 - [`@text-yoga/ask`](https://github.com/text-yoga/ask) - Question/Summary for the web.
+- [`@text-yoga/cli`](https://github.com/text-yoga/cli) - CLI for automatic generation of embeddings.
 
 ## Further projects
 
