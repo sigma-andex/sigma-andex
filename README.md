@@ -6,6 +6,9 @@ Right now I'm mostly interested in LLMs with a focus on making LLMs fast and acc
 
 I'm **available for hire**, reach out to me at https://betalyra.pt/contact.
 
+<img src="https://github.com/sigma-andex/sigma-andex/assets/77549848/12af1659-d48c-482f-989a-294aea5b9b77" width=28 height=45 /> If you are interested in LLMs running in the browser make sure to check out my newsletter [AI & the web](https://ai-and-the-web.beehiiv.com/).
+
+
 ## Current projects
 
 At the moment I'm working on the following projects:
