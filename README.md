@@ -6,16 +6,12 @@ Right now I'm mostly interested in LLMs with a focus on making LLMs fast and acc
 
 I'm **available for hire**, reach out to me at https://betalyra.pt/contact.
 
-<img src="https://github.com/sigma-andex/sigma-andex/assets/77549848/12af1659-d48c-482f-989a-294aea5b9b77" width=28 height=45 /> If you are interested in LLMs running in the browser make sure to check out my newsletter [AI & the web](https://ai-and-the-web.beehiiv.com/).
-
-
 ## Current projects
 
 At the moment I'm working on the following projects:
 
 - [`ratchet`](https://github.com/FL33TW00D/ratchet) - Contributor to [Christopher's](https://github.com/FL33TW00D) ratchet transformer library which is written in Rust/WASM and optimised for WebGPU.
-- [`@text-yoga/ask`](https://github.com/text-yoga/ask) - Question/Summary for the web.
-- [`@text-yoga/cli`](https://github.com/text-yoga/cli) - CLI for automatic generation of embeddings.
+- [`sorry-dave`](https://github.com/text-yoga/ask](https://github.com/betalyra/sorry-dave) - Typescript authorization library
 
 ## Further projects
 
