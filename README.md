@@ -10,8 +10,8 @@ I'm **available for hire**, reach out to me at https://betalyra.pt/contact.
 
 At the moment I'm working on the following projects:
 
-- [`sorry-dave`](https://github.com/betalyra/sorry-dave) - Typescript authorization library
-- [`ratchet`](https://github.com/huggingface/ratchet) - Contributor to [Christopher's](https://github.com/FL33TW00D) ratchet transformer library.
+- [`@betalyra/sorry-dave`](https://github.com/betalyra/sorry-dave) - Typescript authorization library
+- [`@huggingface/ratchet`](https://github.com/huggingface/ratchet) - Contributor to [Christopher's](https://github.com/FL33TW00D) ratchet transformer library.
 
 ## Further projects
 
