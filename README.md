@@ -2,9 +2,9 @@ Hi,
 
 I'm Jan, a deep learning and functional programming enthusiast. I code mostly in Rust, TypeScript and Python, though I also have strong experience in PureScript, Haskell, Scala and Idris.
 
-Right now I'm mostly interested in LLMs with a focus on making LLMs fast and accessible.
+Right now I'm mostly interested in LLMs with a focus on mechanistic interpretability.
 
-I'm **available for hire**, reach out to me at https://betalyra.pt/contact.
+Need help with AI? Through my company Betalyra I'm **available for hire**, reach out to me at https://betalyra.pt/contact.
 
 ## Current projects
 
