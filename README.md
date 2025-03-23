@@ -10,7 +10,6 @@ Need help with AI? Through my company Betalyra I'm **available for hire**, reach
 
 At the moment I'm working on the following projects:
 
-- [`@betalyra/sorry-dave`](https://github.com/betalyra/sorry-dave) - Typescript authorization library
 - [`@huggingface/ratchet`](https://github.com/huggingface/ratchet) - Contributor to [Christopher's](https://github.com/FL33TW00D) ratchet transformer library.
 
 ## Further projects
