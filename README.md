@@ -9,10 +9,11 @@ Need help with AI? Through my company Betalyra I'm **available for hire**, reach
 ## Current projects
 
 At the moment I'm working on the following projects:
+- 🦑 [`cuttlekit`](https://github.com/betalyra/cuttlekit) - Cuttlekit generative UI toolkit
+
+## Past projects
 
 - [`@huggingface/ratchet`](https://github.com/huggingface/ratchet) - Contributor to [Christopher's](https://github.com/FL33TW00D) ratchet transformer library.
-
-## Further projects
 
 ### Purescript
 
