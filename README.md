@@ -10,6 +10,7 @@ Need help with AI? Through my company Betalyra I'm **available for hire**, reach
 
 At the moment I'm working on the following projects:
 - 🦑 [`cuttlekit`](https://github.com/betalyra/cuttlekit) - Cuttlekit generative UI toolkit
+- 🔺 [`effect-uai`](https://github.com/betalyra/effect-uai) - Effectful building blocks for agentic ai
 
 ## Past projects
 
